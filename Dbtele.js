@@ -1,5 +1,5 @@
 {
-  "status": "on",
+  "status": "off",
   "chats": [],
   "database": {},
   "sticker": {},
